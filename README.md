@@ -1,6 +1,6 @@
 # 💻JavaScript DOM
 
-Este proyecto contiene **tres ejercicios** desarrollados con JavaScript puro para practicar la manipulación del DOM y uso de condicionales.
+Este proyecto contiene ejercicios desarrollados con JavaScript puro para practicar la manipulación del DOM y uso de condicionales.
 Ver Proyecto:
 ---
 ## Descripción General
