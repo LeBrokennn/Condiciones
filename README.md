@@ -1,6 +1,7 @@
 # 💻JavaScript DOM
 
 Este proyecto contiene ejercicios desarrollados con JavaScript puro para practicar la manipulación del DOM y uso de condicionales.
+---
 Ver Proyecto: https://lebrokennn.github.io/Condiciones/
 ---
 ## Descripción General
